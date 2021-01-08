@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularfirebase-8b8b0": {
+      "hosting": {
+        "AngularFirebase": [
+          "angularfirebase-8b8b0"
+        ]
+      }
+    }
+  }
+}
